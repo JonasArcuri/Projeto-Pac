@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Rock+Salt&family=Tsukimi+Rounded&display=swap');
+
+:root {
+    --cor-da-letra-menu: #667085;
+    --cor-do-vermelho: #8E2424;
+    --cor-da-letra-button: rgba(255, 255, 255, 1);
+    --cor-preta-diferenciada: #101828;
+    --cor-da-borda: rgba(234, 236, 240, 1);
+    --penultimo-background: rgba(196, 25, 25, 0.03);
+    --ultimo-background: rgba(249, 250, 251, 1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+    font-size: 100%;
+    background: #fff;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    background: #F0C1C5;
+}
+
+.cabecalho-imagem {
+    height: 70px;
+
+}
+
+.cabecalho-div {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+.cabecalho-menu-item {
+    color: black;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho-button {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.cabecalho-button-entrar {
+    color: var(--cor-da-letra-menu);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+}
+
+.cabecalho-button-cadastrar {
+    background-color: #000000;
+    color: rgb(228, 228, 228);
+    border-radius: 8px;
+    width: 96px;
+    height: 44px;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    border: none;
+
+}
+
+.cabecalho-button-cadastrar:hover {
+    width: 97px;
+    height: 45px;
+    background-color: #383838;
+
+}
+
+.informacao {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+    gap: 100px;
+}
+
+.informacao-dois {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    gap: 100px;
+    justify-content: center;
+}
+
+.texto-das-foto {
+    font-family: 'Poppins', sans-serif;
+}
+
+.info-btn {
+    text-decoration: none;
+    color: black;
+    background: #ebaeb3;
+    font-size: 14px;
+    border-radius: 30px;
+    border: none;
+    width: 160px;
+    height: 30px;
+}
+
+.informacao-texto {
+    font-family: 'Poppins', sans-serif;
+}
+.carousel {
+    max-width: 1500px; /* Define a largura máxima do carrossel */
+    height: 600px; /* Define a altura do carrossel */
+    margin: 30px auto; /* Adiciona margem ao redor do carrossel */
+  }
+  
+
+/*FOOTER*/
+
+footer{
+    position: absolute;
+
+    width: 100%;
+    background: #F0C1C5;
+}
+
+.footer-copyright{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+
+}
+.redes-sociais h1{
+    font-size: 26px;
+    color: black;
+}
+
+.msg-bonita{
+    font-size: 25px;
+    text-align: center;
+    font-family: "Caveat", cursive;
+    font-weight: 500;
+    color: black;
+}
+
+.contato-footer h1{
+    font-size: 26px;
+    color: black;
+}
+.contato-footer i{
+    font-size: 12px;
+    font-family: 'Poppins',sans-serif;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
