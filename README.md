@@ -21,4 +21,14 @@ Está sendo realizado a elaboração de um site para a divulgação e atração 
 ## Home do site
 ![image](https://github.com/JonasArcuri/Projeto-Pac/assets/142356733/76485adb-4f20-4076-84e1-22df57ac5a74)
 
+
+
+## Página de Login
+
+A página de login ainda falta estilizar com CSS para ficar como no projeto
+
+https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/telaLogin.html
+
+![image](https://github.com/JonasArcuri/Projeto-Pac/assets/142356733/db5612ad-fba2-4a38-bdd3-2869990936c3)
+
 https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
