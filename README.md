@@ -41,4 +41,4 @@ A parte do Back-End já está concluida, falta terminar o front-end para integra
 https://github.com/JonasArcuri/Projeto-Pac/tree/main/Backend/Mvc
 
 
-A parte do Back-End já está concluida, falta terminar o front-end para integrar um ao outro.
+
