@@ -17,3 +17,8 @@ Está sendo realizado a elaboração de um site para a divulgação e atração 
 - [X] Banco de Dados
 - [ ] Sistema de Cadastro
 - [X] Parte Back-End
+
+## Home do site
+![image](https://github.com/JonasArcuri/Projeto-Pac/assets/142356733/76485adb-4f20-4076-84e1-22df57ac5a74)
+
+https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
