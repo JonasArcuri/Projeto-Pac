@@ -18,11 +18,17 @@ Está sendo realizado a elaboração de um site para a divulgação e atração 
 - [ ] Sistema de Cadastro
 - [X] Parte Back-End
 
-## Home do site
+## Páginas do site
 A página home está quase toda concluida, faltando imagens e texto.
 https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
-![image](https://github.com/JonasArcuri/Projeto-Pac/assets/142356733/76485adb-4f20-4076-84e1-22df57ac5a74)
 
+![Captura de tela 2024-05-31 214053](https://github.com/JonasArcuri/Projeto-Pac/assets/125512149/a6370dec-f402-4352-869e-430eca308dcc)
+
+![Captura de tela 2024-05-31 214106](https://github.com/JonasArcuri/Projeto-Pac/assets/125512149/a7cbd5a1-c384-4b3e-a5c8-3d0dac6fb762)
+
+![Captura de tela 2024-05-31 214131](https://github.com/JonasArcuri/Projeto-Pac/assets/125512149/92141455-9327-482f-b571-bde01e95f11e)
+
+![Captura de tela 2024-05-31 214138](https://github.com/JonasArcuri/Projeto-Pac/assets/125512149/8f25f58e-6a0f-4d89-9dab-72d26ef438fa)
 
 
 ## Página de Login
