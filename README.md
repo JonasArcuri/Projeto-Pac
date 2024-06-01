@@ -13,13 +13,13 @@ Está sendo realizado a elaboração de um site para a divulgação e atração 
 - [x] Home do site
 - [x] Página de login
 - [X] Página de Contato
-- [ ] Página de Projetos
+- [X] Página de Projetos
 - [X] Banco de Dados
 - [ ] Sistema de Cadastro
 - [X] Parte Back-End
 
 ## Home do site
-A página home está quase toda concluida, faltando apenas as imagens.
+A página home está quase toda concluida, faltando imagens e texto.
 https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
 ![image](https://github.com/JonasArcuri/Projeto-Pac/assets/142356733/76485adb-4f20-4076-84e1-22df57ac5a74)
 
@@ -27,7 +27,7 @@ https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
 
 ## Página de Login
 
-A página de login ainda falta estilizar com CSS para ficar como no projeto
+A página de login está autenticada!
 
 https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/telaLogin.html
 
@@ -37,8 +37,11 @@ https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
 
 ## Back-End
 
-A parte do Back-End já está concluida, falta terminar o front-end para integrar um ao outro.
+A parte do Back-End já está 90% concluída, faltando o front do sistema de cadastro e estoque de itens.
 https://github.com/JonasArcuri/Projeto-Pac/tree/main/Backend/Mvc
+
+![Captura de tela 2024-05-31 213625](https://github.com/JonasArcuri/Projeto-Pac/assets/125512149/9b5335b5-642e-4e4a-9e88-a3966e166cb1)
+
 
 
 
