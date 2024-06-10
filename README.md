@@ -12,7 +12,7 @@ Está sendo realizado a elaboração de um site para a divulgação e atração 
 
 - [x] Home do site
 - [x] Página de login
-- [X] Página de Contato
+- [] Página de Contato
 - [X] Página de Projetos
 - [X] Banco de Dados
 - [ ] Sistema de Cadastro
@@ -33,7 +33,6 @@ https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/home.html
 
 ## Página de Login
 
-A página de login está autenticada!
 
 https://github.com/JonasArcuri/Projeto-Pac/blob/main/public/telaLogin.html
 
